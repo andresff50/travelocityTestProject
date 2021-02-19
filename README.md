@@ -16,7 +16,9 @@ El proyecto es un reto de Devco, donde se se crearon 15 escenarios manuales y la
 
 ### Instrucciones de ejecución
 Ejecutar desde terminal:
+
 -En la terminal o consola estando ubicados en la carpeta del proyecto en la terminal escribimos `gradle build`, y esperamos que descargue las dependencias y realice las ejecuciones de las pruebas.
+
 Ejecutar desde un IDE o Proyecto ya abierto:
 - PASO 1: Ubicado dentro de la carpeta principal del proyecto, abrimos la terminal.
 - PASO 2: Abrimos el proyecto con cualquier ide y descargamos las dependencias
